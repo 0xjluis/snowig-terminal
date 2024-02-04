@@ -1,4 +1,4 @@
-# Snowfall Simulation in Node.js Console
+# Snow on the Node terminal
 
 This Node.js project simulates snowfall in the console using a grid-based approach. It is a simple and visually appealing terminal-based animation.
 
