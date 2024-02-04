@@ -22,7 +22,7 @@ This Node.js project simulates snowfall in the console using a grid-based approa
 1. **Installation**: Ensure you have Node.js installed on your system.
 2. **Running the Simulation**: Use the following command to run the simulation:
     ```bash
-    node yourScriptFileName.js
+    node i && node run dale 
     ```
 3. **Customization**: Modify the `width`, `height`, and other parameters in the script to customize the simulation.
 
