@@ -1,7 +1,7 @@
 const readline = require("readline")
 
-const width = 150;
-const heigth = 60;
+const width = 60;
+const heigth = 30;
 
 const empty = "░";
 const snow = "▓";
@@ -176,7 +176,7 @@ function runtimeFPS(cicles:number, currentCycle = 0) {
             updateState(j);
         }
         stopFalling(display);
-        //clearConsole(); // Clearing can cause flickering
+        clearConsole(); // Clearing can cause flickering
         parseDisplay(display);
 
         const duracion = Date.now() - inicio;
